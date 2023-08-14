@@ -1,6 +1,6 @@
 # Doge-Pine
 i3-gaps config made by *icebox*.<br />
-spotify support seems unnecasary, for me it;'s the best part
+spotify support seems unnecasary, for me it's the best part
 <br /><br />
 # required software:
 i3-gaps (no *really*)<br />
