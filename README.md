@@ -10,6 +10,7 @@ gimp (for screenshots)<br />
 <br /><br />
 # install process
 install this repo for rofi themes: https://github.com/adi1090x/rofi/tree/master<br />
+make the type 6 launcher file in .config/rofi use style 10<br />
 install the Doge-Pine repo<br />
 clone the installed files from doge-pine into your /home directory<br />
 <br /><br />
