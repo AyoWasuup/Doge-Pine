@@ -2,7 +2,8 @@
 i3-gaps config made by *icebox*.<br />
 spotify support seems unnecasary, for me it's the best part
 <br /><br />
-# need (including i3-gaps, ofc):
+# required software:
+i3-gaps<br />
 polybar<br />
 feh<br />
 rofi (start menu and shutdown)<br />
